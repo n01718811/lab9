@@ -1,4 +1,4 @@
-Repository URL: [your-github-repo-url]
+Repository URL: https://github.com/n01718811/lab9.git
 Student Name: TIEN DUNG PHAM    
 Student ID: n01718811
 Lab: CPAN 213 - Lab 9
